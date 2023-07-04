@@ -7,3 +7,4 @@ public class Main01 {
         System.out.println(Input.length());
     }
 }
+//2743
